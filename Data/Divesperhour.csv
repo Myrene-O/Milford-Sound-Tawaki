@@ -1,0 +1,977 @@
+ID,Site,Year,Trip,Type,Hour,Dive Count
+HC75,Harrison Cove,2020,1,short,14,11
+HC75,Harrison Cove,2020,1,short,15,8
+HC75,Harrison Cove,2020,1,short,16,9
+HC75,Harrison Cove,2020,1,short,17,20
+HC75,Harrison Cove,2020,1,short,19,1
+HC75,Harrison Cove,2020,2,short,4,2
+HC75,Harrison Cove,2020,2,short,5,3
+HC75,Harrison Cove,2020,2,short,6,18
+HC75,Harrison Cove,2020,2,short,7,25
+HC75,Harrison Cove,2020,2,short,8,18
+HC75,Harrison Cove,2020,2,short,9,30
+HC75,Harrison Cove,2020,2,short,10,38
+HC75,Harrison Cove,2020,2,short,11,27
+HC75,Harrison Cove,2020,2,short,12,23
+HC75,Harrison Cove,2020,2,short,13,27
+HC75,Harrison Cove,2020,2,short,14,50
+HC75,Harrison Cove,2020,2,short,15,40
+HC75,Harrison Cove,2020,2,short,16,21
+HC75,Harrison Cove,2020,3,short,6,21
+HC75,Harrison Cove,2020,3,short,7,35
+HC75,Harrison Cove,2020,3,short,8,25
+HC75,Harrison Cove,2020,3,short,9,26
+HC75,Harrison Cove,2020,3,short,10,28
+HC75,Harrison Cove,2020,3,short,11,29
+HC75,Harrison Cove,2020,3,short,12,31
+HC75,Harrison Cove,2020,3,short,13,33
+HC75,Harrison Cove,2020,3,short,14,28
+HC75,Harrison Cove,2020,3,short,15,33
+HC75,Harrison Cove,2020,3,short,16,47
+HC75,Harrison Cove,2020,3,short,17,39
+HC75,Harrison Cove,2020,4,short,6,13
+HC75,Harrison Cove,2020,4,short,7,33
+HC75,Harrison Cove,2020,4,short,8,27
+HC75,Harrison Cove,2020,4,short,9,40
+HC75,Harrison Cove,2020,4,short,10,42
+HC75,Harrison Cove,2020,4,short,11,37
+HC75,Harrison Cove,2020,4,short,12,34
+HC75,Harrison Cove,2020,4,short,13,4
+HC75,Harrison Cove,2020,4,short,17,15
+HC75,Harrison Cove,2020,4,short,18,36
+HC75,Harrison Cove,2020,4,short,19,14
+HC71,Harrison Cove,2020,1,short,5,11
+HC71,Harrison Cove,2020,1,short,6,19
+HC71,Harrison Cove,2020,1,short,7,38
+HC71,Harrison Cove,2020,1,short,8,29
+HC71,Harrison Cove,2020,1,short,9,45
+HC71,Harrison Cove,2020,1,short,10,84
+HC71,Harrison Cove,2020,1,short,11,62
+HC71,Harrison Cove,2020,1,short,12,56
+HC71,Harrison Cove,2020,1,short,13,40
+HC71,Harrison Cove,2020,1,short,14,41
+HC71,Harrison Cove,2020,1,short,15,51
+HC71,Harrison Cove,2020,1,short,16,41
+HC71,Harrison Cove,2020,1,short,17,51
+HC71,Harrison Cove,2020,1,short,18,13
+HC76,Harrison Cove,2020,1,short,6,49
+HC76,Harrison Cove,2020,1,short,7,53
+HC76,Harrison Cove,2020,1,short,8,78
+HC76,Harrison Cove,2020,1,short,9,62
+HC76,Harrison Cove,2020,1,short,10,63
+HC76,Harrison Cove,2020,1,short,11,62
+HC76,Harrison Cove,2020,1,short,12,46
+HC76,Harrison Cove,2020,1,short,13,27
+HC76,Harrison Cove,2020,1,short,14,15
+HC76,Harrison Cove,2020,1,short,15,40
+HC76,Harrison Cove,2020,1,short,16,36
+HC76,Harrison Cove,2020,1,short,17,42
+HC76,Harrison Cove,2020,1,short,18,53
+HC79,Harrison Cove,2020,1,short,5,18
+HC79,Harrison Cove,2020,1,short,6,35
+HC79,Harrison Cove,2020,1,short,7,44
+HC79,Harrison Cove,2020,1,short,8,31
+HC79,Harrison Cove,2020,1,short,9,37
+HC79,Harrison Cove,2020,1,short,10,32
+HC79,Harrison Cove,2020,1,short,11,45
+HC79,Harrison Cove,2020,1,short,12,41
+HC79,Harrison Cove,2020,1,short,13,42
+HC79,Harrison Cove,2020,1,short,14,38
+HC79,Harrison Cove,2020,1,short,15,44
+HC79,Harrison Cove,2020,1,short,16,47
+HC79,Harrison Cove,2020,1,short,17,52
+HC79,Harrison Cove,2020,1,short,18,51
+HC79,Harrison Cove,2020,1,short,19,13
+HC79,Harrison Cove,2020,2,short,5,19
+HC79,Harrison Cove,2020,2,short,6,43
+HC79,Harrison Cove,2020,2,short,7,32
+HC79,Harrison Cove,2020,2,short,8,42
+HC79,Harrison Cove,2020,2,short,9,57
+HC79,Harrison Cove,2020,2,short,10,23
+HC79,Harrison Cove,2020,2,short,11,53
+HC79,Harrison Cove,2020,2,short,12,60
+HC79,Harrison Cove,2020,2,short,13,3
+HC81,Harrison Cove,2020,1,short,4,3
+HC81,Harrison Cove,2020,1,short,5,3
+HC81,Harrison Cove,2020,1,short,6,26
+HC81,Harrison Cove,2020,1,short,7,67
+HC81,Harrison Cove,2020,1,short,8,43
+HC81,Harrison Cove,2020,1,short,9,51
+HC81,Harrison Cove,2020,1,short,10,43
+HC81,Harrison Cove,2020,1,short,11,27
+HC81,Harrison Cove,2020,2,short,3,2
+HC81,Harrison Cove,2020,2,short,4,3
+HC81,Harrison Cove,2020,2,short,5,3
+HC81,Harrison Cove,2020,2,short,6,32
+HC81,Harrison Cove,2020,2,short,7,30
+HC81,Harrison Cove,2020,2,short,8,36
+HC81,Harrison Cove,2020,2,short,9,49
+HC81,Harrison Cove,2020,2,short,10,34
+HC81,Harrison Cove,2020,2,short,11,32
+HC81,Harrison Cove,2020,2,short,12,46
+HC81,Harrison Cove,2020,2,short,13,8
+HC81,Harrison Cove,2020,3,short,5,9
+HC81,Harrison Cove,2020,3,short,6,35
+HC81,Harrison Cove,2020,3,short,7,50
+HC81,Harrison Cove,2020,3,short,8,51
+HC81,Harrison Cove,2020,3,short,9,32
+HC81,Harrison Cove,2020,3,short,10,31
+HC81,Harrison Cove,2020,3,short,11,38
+HC81,Harrison Cove,2020,3,short,12,34
+HC81,Harrison Cove,2020,3,short,13,12
+HC81,Harrison Cove,2020,3,short,16,11
+HC81,Harrison Cove,2020,3,short,17,59
+HC81,Harrison Cove,2020,3,short,18,5
+HC81,Harrison Cove,2020,4,short,15,16
+HC81,Harrison Cove,2020,4,short,16,45
+HC81,Harrison Cove,2020,4,short,17,64
+HC81,Harrison Cove,2020,4,short,18,63
+HC81,Harrison Cove,2020,4,short,19,1
+HC83,Harrison Cove,2020,1,short,5,28
+HC83,Harrison Cove,2020,1,short,6,47
+HC83,Harrison Cove,2020,1,short,7,38
+HC83,Harrison Cove,2020,1,short,8,47
+HC83,Harrison Cove,2020,1,short,9,31
+HC83,Harrison Cove,2020,1,short,10,20
+HC83,Harrison Cove,2020,1,short,11,21
+HC83,Harrison Cove,2020,1,short,12,17
+HC83,Harrison Cove,2020,1,short,13,17
+HC83,Harrison Cove,2020,1,short,14,16
+HC83,Harrison Cove,2020,1,short,15,17
+HC83,Harrison Cove,2020,1,short,16,14
+HC83,Harrison Cove,2020,1,short,17,25
+HC83,Harrison Cove,2020,1,short,18,31
+HC83,Harrison Cove,2020,1,short,19,34
+HC83,Harrison Cove,2020,1,short,21,4
+HC83,Harrison Cove,2020,2,short,2,2
+HC83,Harrison Cove,2020,2,short,5,17
+HC83,Harrison Cove,2020,2,short,6,23
+HC83,Harrison Cove,2020,2,short,7,17
+HC83,Harrison Cove,2020,2,short,8,19
+HC83,Harrison Cove,2020,2,short,9,17
+HC83,Harrison Cove,2020,2,short,10,19
+HC83,Harrison Cove,2020,2,short,11,25
+HC83,Harrison Cove,2020,2,short,12,36
+HC83,Harrison Cove,2020,2,short,13,60
+HC83,Harrison Cove,2020,2,short,14,59
+HC83,Harrison Cove,2020,2,short,15,39
+HC83,Harrison Cove,2020,2,short,16,40
+HC83,Harrison Cove,2020,3,short,5,19
+HC83,Harrison Cove,2020,3,short,6,43
+HC83,Harrison Cove,2020,3,short,7,47
+HC83,Harrison Cove,2020,3,short,8,18
+HC83,Harrison Cove,2020,3,short,9,24
+HC83,Harrison Cove,2020,3,short,10,19
+HC92,Harrison Cove,2020,1,short,24,2
+HC92,Harrison Cove,2020,1,short,1,5
+HC92,Harrison Cove,2020,1,short,2,33
+HC92,Harrison Cove,2020,1,short,3,36
+HC92,Harrison Cove,2020,1,short,4,10
+HC92,Harrison Cove,2020,1,short,5,23
+HC92,Harrison Cove,2020,1,short,6,38
+HC92,Harrison Cove,2020,1,short,7,65
+HC92,Harrison Cove,2020,1,short,8,63
+HC92,Harrison Cove,2020,1,short,9,76
+HC92,Harrison Cove,2020,1,short,10,80
+HC92,Harrison Cove,2020,1,short,11,60
+HC92,Harrison Cove,2020,1,short,12,70
+HC92,Harrison Cove,2020,1,short,13,68
+HC92,Harrison Cove,2020,1,short,14,60
+HC92,Harrison Cove,2020,1,short,15,53
+HC92,Harrison Cove,2020,1,short,16,54
+HC92,Harrison Cove,2020,1,short,17,31
+HC92,Harrison Cove,2020,1,short,18,16
+HC92,Harrison Cove,2020,1,short,19,2
+HC92,Harrison Cove,2020,1,short,22,3
+HC92,Harrison Cove,2020,1,short,23,16
+HC92,Harrison Cove,2020,2,short,6,1
+HC92,Harrison Cove,2020,2,short,7,31
+HC92,Harrison Cove,2020,2,short,8,51
+HC92,Harrison Cove,2020,2,short,9,55
+HC92,Harrison Cove,2020,2,short,10,51
+HC92,Harrison Cove,2020,2,short,11,41
+HC92,Harrison Cove,2020,2,short,12,42
+HC92,Harrison Cove,2020,2,short,13,32
+HC92,Harrison Cove,2020,2,short,14,34
+HC92,Harrison Cove,2020,2,short,15,46
+HC92,Harrison Cove,2020,2,short,16,55
+HC92,Harrison Cove,2020,2,short,17,39
+HC93,Harrison Cove,2020,1,short,4,33
+HC93,Harrison Cove,2020,1,short,5,45
+HC93,Harrison Cove,2020,1,short,6,61
+HC93,Harrison Cove,2020,1,short,7,93
+HC93,Harrison Cove,2020,1,short,8,84
+HC93,Harrison Cove,2020,1,short,9,85
+HC93,Harrison Cove,2020,1,short,10,51
+HC93,Harrison Cove,2020,1,short,11,64
+HC93,Harrison Cove,2020,1,short,12,59
+HC93,Harrison Cove,2020,1,short,13,82
+HC93,Harrison Cove,2020,1,short,14,81
+HC93,Harrison Cove,2020,1,short,15,2
+HC93,Harrison Cove,2020,2,short,14,14
+HC93,Harrison Cove,2020,2,short,15,52
+HC93,Harrison Cove,2020,2,short,16,54
+HC93,Harrison Cove,2020,2,short,17,68
+HC93,Harrison Cove,2020,2,short,18,34
+HC93,Harrison Cove,2020,3,short,5,13
+HC93,Harrison Cove,2020,3,short,6,44
+HC93,Harrison Cove,2020,3,short,7,18
+HC01,Harrison Cove,2019,1,short,12,2
+HC792,Harrison Cove,2019,1,short,6,35
+HC792,Harrison Cove,2019,1,short,7,32
+HC792,Harrison Cove,2019,1,short,8,75
+HC792,Harrison Cove,2019,1,short,9,113
+HC792,Harrison Cove,2019,1,short,10,84
+HC792,Harrison Cove,2019,1,short,11,87
+HC792,Harrison Cove,2019,1,short,12,42
+HC792,Harrison Cove,2019,1,short,13,17
+HC792,Harrison Cove,2019,1,short,14,29
+HC792,Harrison Cove,2019,1,short,15,37
+HC792,Harrison Cove,2019,1,short,16,20
+HC792,Harrison Cove,2019,1,short,17,22
+HC792,Harrison Cove,2019,1,short,18,32
+HC792,Harrison Cove,2019,1,short,19,43
+HC792,Harrison Cove,2019,1,short,20,64
+HC792,Harrison Cove,2019,1,short,21,5
+HC792,Harrison Cove,2019,2,short,5,2
+HC792,Harrison Cove,2019,2,short,6,37
+HC792,Harrison Cove,2019,2,short,7,29
+HC792,Harrison Cove,2019,2,short,8,72
+HC792,Harrison Cove,2019,2,short,9,78
+PenguCam,Harrison Cove,2019,1,short,6,11
+PenguCam,Harrison Cove,2019,1,short,7,27
+PenguCam,Harrison Cove,2019,1,short,8,14
+PenguCam,Harrison Cove,2019,1,short,9,48
+PenguCam,Harrison Cove,2019,1,short,10,46
+PenguCam,Harrison Cove,2019,1,short,11,34
+PenguCam,Harrison Cove,2019,1,short,12,26
+PenguCam,Harrison Cove,2019,1,short,13,18
+PenguCam,Harrison Cove,2019,1,short,14,10
+PenguCam,Harrison Cove,2019,1,short,15,12
+PenguCam,Harrison Cove,2019,1,short,16,18
+PenguCam,Harrison Cove,2019,1,short,17,20
+PenguCam,Harrison Cove,2019,1,short,18,23
+PenguCam,Harrison Cove,2019,1,short,19,37
+PenguCam,Harrison Cove,2019,1,short,20,56
+PenguCam,Harrison Cove,2019,2,short,6,21
+PenguCam,Harrison Cove,2019,2,short,7,32
+PenguCam,Harrison Cove,2019,2,short,8,26
+PenguCam,Harrison Cove,2019,2,short,9,20
+PenguCam,Harrison Cove,2019,2,short,10,20
+PenguCam,Harrison Cove,2019,2,short,11,25
+PenguCam,Harrison Cove,2019,2,short,12,46
+PenguCam,Harrison Cove,2019,2,short,13,42
+PenguCam,Harrison Cove,2019,2,short,14,43
+PenguCam,Harrison Cove,2019,2,short,15,45
+PenguCam,Harrison Cove,2019,2,short,16,34
+PenguCam,Harrison Cove,2019,2,short,17,27
+PenguCam,Harrison Cove,2019,2,short,18,24
+PenguCam,Harrison Cove,2019,2,short,19,33
+PenguCam,Harrison Cove,2019,2,short,20,65
+PenguCam,Harrison Cove,2019,2,short,21,6
+HC882,Harrison Cove,2019,1,long,6,5
+HC882,Harrison Cove,2019,1,long,7,36
+HC882,Harrison Cove,2019,1,long,8,60
+HC882,Harrison Cove,2019,1,long,9,60
+HC882,Harrison Cove,2019,1,long,10,61
+HC882,Harrison Cove,2019,1,long,11,30
+HC882,Harrison Cove,2019,1,long,12,26
+HC882,Harrison Cove,2019,1,long,13,21
+HC882,Harrison Cove,2019,1,long,14,29
+HC882,Harrison Cove,2019,1,long,15,25
+HC882,Harrison Cove,2019,1,long,16,32
+HC882,Harrison Cove,2019,1,long,17,22
+HC882,Harrison Cove,2019,1,long,18,25
+HC882,Harrison Cove,2019,1,long,19,35
+HC882,Harrison Cove,2019,1,long,20,46
+HC882,Harrison Cove,2019,1,long,21,10
+HC882,Harrison Cove,2019,1,long,23,1
+HC882,Harrison Cove,2019,2,long,4,4
+HC882,Harrison Cove,2019,2,long,6,17
+HC882,Harrison Cove,2019,2,long,7,45
+HC882,Harrison Cove,2019,2,long,8,38
+HC882,Harrison Cove,2019,2,long,9,30
+HC882,Harrison Cove,2019,2,long,10,30
+HC882,Harrison Cove,2019,2,long,11,25
+HC882,Harrison Cove,2019,2,long,12,26
+HC882,Harrison Cove,2019,2,long,13,25
+HC882,Harrison Cove,2019,2,long,14,24
+HC882,Harrison Cove,2019,2,long,15,26
+HC882,Harrison Cove,2019,2,long,16,28
+HC882,Harrison Cove,2019,2,long,17,32
+HC882,Harrison Cove,2019,2,long,18,44
+HC882,Harrison Cove,2019,2,long,19,43
+HC882,Harrison Cove,2019,2,long,20,71
+HC882,Harrison Cove,2019,2,long,21,3
+HC01,Harrison Cove,2019,1,long,6,16
+HC01,Harrison Cove,2019,1,long,7,29
+HC01,Harrison Cove,2019,1,long,8,41
+HC01,Harrison Cove,2019,1,long,9,63
+HC01,Harrison Cove,2019,1,long,10,23
+HC01,Harrison Cove,2019,1,long,11,17
+HC01,Harrison Cove,2019,1,long,12,17
+HC01,Harrison Cove,2019,1,long,13,18
+HC01,Harrison Cove,2019,1,long,14,20
+HC01,Harrison Cove,2019,1,long,15,19
+HC01,Harrison Cove,2019,1,long,16,18
+HC01,Harrison Cove,2019,1,long,17,31
+HC01,Harrison Cove,2019,1,long,18,19
+HC01,Harrison Cove,2019,1,long,19,38
+HC01,Harrison Cove,2019,1,long,20,26
+HC01,Harrison Cove,2019,2,long,24,2
+HC01,Harrison Cove,2019,2,long,2,1
+HC01,Harrison Cove,2019,2,long,6,24
+HC01,Harrison Cove,2019,2,long,7,27
+HC01,Harrison Cove,2019,2,long,8,18
+HC01,Harrison Cove,2019,2,long,9,19
+HC01,Harrison Cove,2019,2,long,10,20
+HC01,Harrison Cove,2019,2,long,11,18
+HC01,Harrison Cove,2019,2,long,12,20
+HC01,Harrison Cove,2019,2,long,13,24
+HC01,Harrison Cove,2019,2,long,14,23
+HC01,Harrison Cove,2019,2,long,15,23
+HC01,Harrison Cove,2019,2,long,16,33
+HC01,Harrison Cove,2019,2,long,17,28
+HC01,Harrison Cove,2019,2,long,18,29
+HC01,Harrison Cove,2019,2,long,19,72
+HC01,Harrison Cove,2019,2,long,20,103
+HC01,Harrison Cove,2019,2,long,21,65
+HC01,Harrison Cove,2019,2,long,22,74
+HC01,Harrison Cove,2019,3,short,6,26
+HC01,Harrison Cove,2019,3,short,7,34
+HC01,Harrison Cove,2019,3,short,8,32
+HC01,Harrison Cove,2019,3,short,9,98
+HC01,Harrison Cove,2019,3,short,10,9
+HC01,Harrison Cove,2019,3,short,11,32
+HC01,Harrison Cove,2019,3,short,12,33
+HC01,Harrison Cove,2019,3,short,13,28
+HC01,Harrison Cove,2019,3,short,14,19
+HC01,Harrison Cove,2019,3,short,15,20
+HC01,Harrison Cove,2019,3,short,16,21
+HC01,Harrison Cove,2019,3,short,17,27
+HC01,Harrison Cove,2019,3,short,18,26
+HC01,Harrison Cove,2019,3,short,19,33
+HC01,Harrison Cove,2019,3,short,20,45
+HC01,Harrison Cove,2019,3,short,23,3
+HC01,Harrison Cove,2019,4,short,6,37
+HC01,Harrison Cove,2019,4,short,7,67
+HC01,Harrison Cove,2019,4,short,8,71
+HC01,Harrison Cove,2019,4,short,9,57
+HC01,Harrison Cove,2019,4,short,10,51
+HC01,Harrison Cove,2019,4,short,11,51
+HC01,Harrison Cove,2019,4,short,12,36
+HC01,Harrison Cove,2019,4,short,13,38
+HC01,Harrison Cove,2019,4,short,14,28
+HC01,Harrison Cove,2019,4,short,15,22
+HC01,Harrison Cove,2019,4,short,16,24
+HC01,Harrison Cove,2019,4,short,17,44
+HC01,Harrison Cove,2019,4,short,18,60
+HC01,Harrison Cove,2019,4,short,19,62
+HC01,Harrison Cove,2019,4,short,20,82
+HC01,Harrison Cove,2019,4,short,21,29
+MO02,Moraine,2019,1,long,9,18
+MO02,Moraine,2019,1,long,10,25
+MO02,Moraine,2019,1,long,11,44
+MO02,Moraine,2019,1,long,12,43
+MO02,Moraine,2019,1,long,13,31
+MO02,Moraine,2019,1,long,14,22
+MO02,Moraine,2019,1,long,15,25
+MO02,Moraine,2019,1,long,16,97
+MO02,Moraine,2019,1,long,17,70
+MO02,Moraine,2019,1,long,18,41
+MO02,Moraine,2019,1,long,19,58
+MO02,Moraine,2019,1,long,20,64
+MO02,Moraine,2019,1,long,21,17
+MO02,Moraine,2019,1,long,22,8
+MO02,Moraine,2019,1,long,23,4
+MO02,Moraine,2019,2,long,24,5
+MO02,Moraine,2019,2,long,2,1
+MO02,Moraine,2019,2,long,3,1
+MO02,Moraine,2019,2,long,4,1
+MO02,Moraine,2019,2,long,5,1
+MO02,Moraine,2019,2,long,6,37
+MO02,Moraine,2019,2,long,7,45
+MO02,Moraine,2019,2,long,8,123
+MO02,Moraine,2019,2,long,9,146
+MO02,Moraine,2019,2,long,10,113
+MO02,Moraine,2019,2,long,11,19
+MO02,Moraine,2019,2,long,12,20
+MO02,Moraine,2019,2,long,13,22
+MO02,Moraine,2019,2,long,14,26
+MO02,Moraine,2019,2,long,15,28
+MO02,Moraine,2019,2,long,16,49
+MO02,Moraine,2019,2,long,17,34
+MO02,Moraine,2019,3,long,6,28
+MO02,Moraine,2019,3,long,7,37
+MO02,Moraine,2019,3,long,8,59
+MO02,Moraine,2019,3,long,9,40
+MO02,Moraine,2019,3,long,10,29
+MO02,Moraine,2019,3,long,11,15
+MO02,Moraine,2019,3,long,12,26
+MO02,Moraine,2019,3,long,13,48
+MO02,Moraine,2019,3,long,14,42
+MO02,Moraine,2019,3,long,15,30
+MO02,Moraine,2019,3,long,16,33
+MO02,Moraine,2019,3,long,17,91
+MO02,Moraine,2019,3,long,18,71
+MO02,Moraine,2019,3,long,19,43
+MO02,Moraine,2019,3,long,20,52
+MO02,Moraine,2019,3,long,21,7
+MO02,Moraine,2019,3,long,22,1
+MO02,Moraine,2019,3,long,23,2
+MO02,Moraine,2019,4,long,12,7
+MO02,Moraine,2019,4,long,1,6
+MO02,Moraine,2019,4,long,2,18
+MO02,Moraine,2019,4,long,3,43
+MO02,Moraine,2019,4,long,4,40
+MO02,Moraine,2019,4,long,5,41
+MO02,Moraine,2019,4,long,6,57
+MO02,Moraine,2019,4,long,7,37
+MO02,Moraine,2019,4,long,8,29
+MO02,Moraine,2019,4,long,9,39
+MO02,Moraine,2019,4,long,10,201
+MO02,Moraine,2019,4,long,11,223
+MO02,Moraine,2019,4,long,12,8
+MO05,Moraine,2019,1,short,6,23
+MO05,Moraine,2019,1,short,7,37
+MO05,Moraine,2019,1,short,8,27
+MO05,Moraine,2019,1,short,9,21
+MO05,Moraine,2019,1,short,10,18
+MO05,Moraine,2019,1,short,11,50
+MO05,Moraine,2019,1,short,12,26
+MO05,Moraine,2019,1,short,13,62
+MO05,Moraine,2019,1,short,14,54
+MO05,Moraine,2019,1,short,15,52
+MO05,Moraine,2019,1,short,16,33
+MO05,Moraine,2019,1,short,17,35
+MO05,Moraine,2019,1,short,18,31
+MO05,Moraine,2019,1,short,19,49
+MO05,Moraine,2019,1,short,20,35
+MO05,Moraine,2019,2,long,3,16
+MO05,Moraine,2019,2,long,4,25
+MO05,Moraine,2019,2,long,5,22
+MO05,Moraine,2019,2,long,6,60
+MO05,Moraine,2019,2,long,7,55
+MO05,Moraine,2019,2,long,8,16
+MO05,Moraine,2019,2,long,9,15
+MO05,Moraine,2019,2,long,10,28
+MO05,Moraine,2019,2,long,11,29
+MO05,Moraine,2019,2,long,12,33
+MO05,Moraine,2019,2,long,13,33
+MO05,Moraine,2019,2,long,14,22
+MO05,Moraine,2019,2,long,15,7
+MO05,Moraine,2019,2,long,16,36
+MO05,Moraine,2019,2,long,17,27
+MO05,Moraine,2019,2,long,18,41
+MO05,Moraine,2019,2,long,19,48
+MO05,Moraine,2019,2,long,20,55
+MO05,Moraine,2019,2,long,21,6
+MO05,Moraine,2019,2,long,23,2
+MO05,Moraine,2019,3,long,24,1
+MO05,Moraine,2019,3,long,2,5
+MO05,Moraine,2019,3,long,4,2
+MO05,Moraine,2019,3,long,5,2
+MO05,Moraine,2019,3,long,6,31
+MO05,Moraine,2019,3,long,7,43
+MO05,Moraine,2019,3,long,8,36
+MO05,Moraine,2019,3,long,9,41
+MO05,Moraine,2019,3,long,10,36
+MO05,Moraine,2019,3,long,11,36
+MO05,Moraine,2019,3,long,12,35
+MO05,Moraine,2019,3,long,13,42
+MO05,Moraine,2019,3,long,14,34
+MO05,Moraine,2019,3,long,15,32
+MO05,Moraine,2019,3,long,16,35
+MO05,Moraine,2019,3,long,17,19
+MO05,Moraine,2019,3,short,18,25
+MO05,Moraine,2019,3,short,19,29
+MO05,Moraine,2019,3,short,20,47
+MO05,Moraine,2019,3,short,21,12
+MO05,Moraine,2019,3,short,22,15
+MO05,Moraine,2019,3,short,23,14
+MO05,Moraine,2019,4,short,24,12
+MO05,Moraine,2019,4,short,2,7
+MO05,Moraine,2019,4,short,6,47
+MO05,Moraine,2019,4,short,7,46
+MO05,Moraine,2019,4,short,8,34
+MO05,Moraine,2019,4,short,9,42
+MO05,Moraine,2019,4,short,10,31
+MO05,Moraine,2019,4,short,11,35
+MO05,Moraine,2019,4,short,12,33
+MO05,Moraine,2019,4,short,13,28
+MO05,Moraine,2019,4,short,14,24
+MO05,Moraine,2019,4,short,15,21
+MO05,Moraine,2019,4,short,16,21
+MO05,Moraine,2019,4,short,17,25
+MO05,Moraine,2019,4,short,18,35
+MO05,Moraine,2019,4,short,19,75
+MO05,Moraine,2019,4,short,20,62
+MO04,Moraine,2019,1,short,7,11
+MO04,Moraine,2019,1,short,8,53
+MO04,Moraine,2019,1,short,9,79
+MO04,Moraine,2019,1,short,10,59
+MO04,Moraine,2019,1,short,11,157
+MO04,Moraine,2019,1,short,12,151
+MO04,Moraine,2019,1,short,13,25
+MO04,Moraine,2019,1,short,14,36
+MO04,Moraine,2019,1,short,15,34
+MO04,Moraine,2019,1,short,16,27
+MO04,Moraine,2019,1,short,17,21
+MO04,Moraine,2019,1,short,18,31
+MO04,Moraine,2019,1,short,19,47
+MO04,Moraine,2019,1,short,20,66
+MO062,Moraine,2019,1,long,6,26
+MO062,Moraine,2019,1,long,7,30
+MO062,Moraine,2019,1,long,8,67
+MO062,Moraine,2019,1,long,9,31
+MO062,Moraine,2019,1,long,10,43
+MO062,Moraine,2019,1,long,11,36
+MO062,Moraine,2019,1,long,12,45
+MO062,Moraine,2019,1,long,13,42
+MO062,Moraine,2019,1,long,14,42
+MO062,Moraine,2019,1,long,15,40
+MO062,Moraine,2019,1,long,16,38
+MO062,Moraine,2019,1,long,17,35
+MO062,Moraine,2019,1,long,18,31
+MO062,Moraine,2019,1,long,19,35
+MO062,Moraine,2019,1,long,20,26
+MO062,Moraine,2019,1,long,21,1
+MO062,Moraine,2019,1,long,22,1
+MO062,Moraine,2019,2,long,2,4
+MO062,Moraine,2019,2,long,6,13
+MO062,Moraine,2019,2,long,7,55
+MO062,Moraine,2019,2,long,8,43
+MO062,Moraine,2019,2,long,9,30
+MO062,Moraine,2019,2,long,10,29
+MO062,Moraine,2019,2,long,11,29
+MO062,Moraine,2019,2,long,12,24
+MO062,Moraine,2019,2,long,13,24
+MO062,Moraine,2019,2,long,14,25
+MO062,Moraine,2019,2,long,15,28
+MO062,Moraine,2019,2,long,16,35
+MO062,Moraine,2019,2,long,17,33
+MO062,Moraine,2019,2,long,18,33
+MO062,Moraine,2019,2,long,19,56
+MO062,Moraine,2019,2,long,20,77
+MO062,Moraine,2019,2,long,21,72
+MO102,Moraine,2019,1,long,2,4
+MO102,Moraine,2019,1,long,3,36
+MO102,Moraine,2019,1,long,4,30
+MO102,Moraine,2019,1,long,5,14
+MO102,Moraine,2019,1,long,6,38
+MO102,Moraine,2019,1,long,7,80
+MO102,Moraine,2019,1,long,8,52
+MO102,Moraine,2019,1,long,9,68
+MO102,Moraine,2019,1,long,10,39
+MO102,Moraine,2019,1,long,11,42
+MO102,Moraine,2019,1,long,12,36
+MO102,Moraine,2019,1,long,13,42
+MO102,Moraine,2019,1,long,14,35
+MO102,Moraine,2019,1,long,15,27
+MO102,Moraine,2019,1,long,16,43
+MO102,Moraine,2019,1,long,17,42
+MO102,Moraine,2019,1,long,18,34
+MO102,Moraine,2019,1,long,19,36
+MO102,Moraine,2019,1,long,20,50
+MO102,Moraine,2019,1,long,21,13
+MO102,Moraine,2019,1,long,22,3
+MO102,Moraine,2019,1,long,23,8
+MO102,Moraine,2019,2,long,24,5
+MO102,Moraine,2019,2,long,2,2
+MO102,Moraine,2019,2,long,3,2
+MO102,Moraine,2019,2,long,4,2
+MO102,Moraine,2019,2,long,5,5
+MO102,Moraine,2019,2,long,6,40
+MO102,Moraine,2019,2,long,7,55
+MO102,Moraine,2019,2,long,8,56
+MO102,Moraine,2019,2,long,9,42
+MO102,Moraine,2019,2,long,10,22
+MO102,Moraine,2019,2,long,11,22
+MO102,Moraine,2019,2,long,12,20
+MO102,Moraine,2019,2,long,13,23
+MO102,Moraine,2019,2,long,14,22
+MO102,Moraine,2019,2,long,15,24
+MO102,Moraine,2019,2,long,16,24
+MO102,Moraine,2019,2,long,17,26
+MO102,Moraine,2019,2,long,18,29
+MO102,Moraine,2019,2,long,19,41
+MO102,Moraine,2019,2,long,20,38
+MO102,Moraine,2019,3,short,2,27
+MO102,Moraine,2019,3,short,3,18
+MO102,Moraine,2019,3,short,4,4
+MO102,Moraine,2019,3,short,5,4
+MO102,Moraine,2019,3,short,6,37
+MO102,Moraine,2019,3,short,7,36
+MO102,Moraine,2019,3,short,8,31
+MO102,Moraine,2019,3,short,9,28
+MO102,Moraine,2019,3,short,10,28
+MO102,Moraine,2019,3,short,11,25
+MO102,Moraine,2019,3,short,12,21
+MO102,Moraine,2019,3,short,13,19
+MO102,Moraine,2019,3,short,14,19
+MO102,Moraine,2019,3,short,15,21
+MO102,Moraine,2019,3,short,16,21
+MO102,Moraine,2019,3,short,17,22
+MO102,Moraine,2019,3,short,18,21
+MO102,Moraine,2019,3,short,19,36
+MO102,Moraine,2019,3,short,20,43
+MO14,Moraine,2020,1,long,6,27
+MO14,Moraine,2020,1,long,7,31
+MO14,Moraine,2020,1,long,8,51
+MO14,Moraine,2020,1,long,9,27
+MO14,Moraine,2020,1,long,10,20
+MO14,Moraine,2020,1,long,11,18
+MO14,Moraine,2020,1,long,12,17
+MO14,Moraine,2020,1,long,13,16
+MO14,Moraine,2020,1,long,14,18
+MO14,Moraine,2020,1,long,15,17
+MO14,Moraine,2020,1,long,16,22
+MO14,Moraine,2020,1,long,17,29
+MO14,Moraine,2020,1,long,18,35
+MO14,Moraine,2020,1,long,19,30
+MO14,Moraine,2020,1,long,23,3
+MO14,Moraine,2020,1,long,24,1
+MO14,Moraine,2020,2,long,5,8
+MO14,Moraine,2020,2,long,6,51
+MO14,Moraine,2020,2,long,7,46
+MO14,Moraine,2020,2,long,8,43
+MO14,Moraine,2020,2,long,9,36
+MO14,Moraine,2020,2,long,10,16
+MO14,Moraine,2020,2,long,11,20
+MO14,Moraine,2020,2,long,12,15
+MO14,Moraine,2020,2,long,13,16
+MO14,Moraine,2020,2,long,14,17
+MO14,Moraine,2020,2,long,15,18
+MO14,Moraine,2020,2,long,16,18
+MO14,Moraine,2020,2,long,17,20
+MO14,Moraine,2020,2,long,18,32
+MO14,Moraine,2020,2,long,19,41
+MO20,Moraine,2020,1,long,6,24
+MO20,Moraine,2020,1,long,7,45
+MO20,Moraine,2020,1,long,8,38
+MO20,Moraine,2020,1,long,9,27
+MO20,Moraine,2020,1,long,10,21
+MO20,Moraine,2020,1,long,11,26
+MO20,Moraine,2020,1,long,12,18
+MO20,Moraine,2020,1,long,13,15
+MO20,Moraine,2020,1,long,14,25
+MO20,Moraine,2020,1,long,15,49
+MO20,Moraine,2020,1,long,16,46
+MO20,Moraine,2020,1,long,17,49
+MO20,Moraine,2020,1,long,18,72
+MO20,Moraine,2020,1,long,19,34
+MO20,Moraine,2020,1,long,20,1
+MO20,Moraine,2020,2,long,24,2
+MO20,Moraine,2020,2,long,2,1
+MO20,Moraine,2020,2,long,3,1
+MO20,Moraine,2020,2,long,4,1
+MO20,Moraine,2020,2,long,5,9
+MO20,Moraine,2020,2,long,6,48
+MO20,Moraine,2020,2,long,7,41
+MO20,Moraine,2020,2,long,8,33
+MO20,Moraine,2020,2,long,9,29
+MO20,Moraine,2020,2,long,10,19
+MO20,Moraine,2020,2,long,11,18
+MO20,Moraine,2020,2,long,12,19
+MO20,Moraine,2020,2,long,13,19
+MO20,Moraine,2020,2,long,14,18
+MO20,Moraine,2020,2,long,15,19
+MO20,Moraine,2020,2,long,16,53
+MO20,Moraine,2020,2,long,17,41
+MO20,Moraine,2020,2,long,18,33
+MO20,Moraine,2020,2,long,19,5
+MO20,Moraine,2020,3,long,5,12
+MO20,Moraine,2020,3,long,6,36
+MO20,Moraine,2020,3,long,7,42
+MO20,Moraine,2020,3,long,8,35
+MO20,Moraine,2020,3,long,9,23
+MO20,Moraine,2020,3,long,10,19
+MO20,Moraine,2020,3,long,11,19
+MO20,Moraine,2020,3,long,12,18
+MO20,Moraine,2020,3,long,13,18
+MO20,Moraine,2020,3,long,14,18
+MO20,Moraine,2020,3,long,15,20
+MO20,Moraine,2020,3,long,16,27
+MO20,Moraine,2020,3,long,17,44
+MO20,Moraine,2020,3,long,18,57
+MO20,Moraine,2020,3,long,19,33
+MO20,Moraine,2020,3,long,21,1
+MO20,Moraine,2020,4,long,5,5
+MO20,Moraine,2020,4,long,6,63
+MO20,Moraine,2020,4,long,7,48
+MO20,Moraine,2020,4,long,8,23
+MO20,Moraine,2020,4,long,9,23
+MO20,Moraine,2020,4,long,10,21
+MO20,Moraine,2020,4,long,11,24
+MO20,Moraine,2020,4,long,12,19
+MO20,Moraine,2020,4,long,13,23
+MO20,Moraine,2020,4,long,14,2
+MO20,Moraine,2020,4,long,15,32
+MO20,Moraine,2020,4,long,16,30
+MO20,Moraine,2020,4,long,17,57
+MO20,Moraine,2020,4,long,18,42
+MO20,Moraine,2020,4,long,19,44
+MO20,Moraine,2020,4,long,20,7
+MO20,Moraine,2020,4,long,21,5
+MO20,Moraine,2020,5,long,5,9
+MO20,Moraine,2020,5,long,6,48
+MO20,Moraine,2020,5,long,7,39
+MO20,Moraine,2020,5,long,8,29
+MO20,Moraine,2020,5,long,9,21
+MO20,Moraine,2020,5,long,10,29
+MO20,Moraine,2020,5,long,11,20
+MO20,Moraine,2020,5,long,12,16
+MO20,Moraine,2020,5,long,13,18
+MO20,Moraine,2020,5,long,14,28
+MO20,Moraine,2020,5,long,15,44
+MO20,Moraine,2020,5,long,16,25
+MO20,Moraine,2020,5,long,17,34
+MO20,Moraine,2020,5,long,18,39
+MO20,Moraine,2020,5,long,19,23
+MO20,Moraine,2020,5,long,21,2
+MO20,Moraine,2020,5,long,22,2
+MO20,Moraine,2020,5,long,23,2
+MO20,Moraine,2020,6,long,2,1
+MO20,Moraine,2020,6,long,4,1
+MO20,Moraine,2020,6,long,5,10
+MO20,Moraine,2020,6,long,6,69
+MO20,Moraine,2020,6,long,7,53
+MO20,Moraine,2020,6,long,8,63
+MO20,Moraine,2020,6,long,9,57
+MO20,Moraine,2020,6,long,10,49
+MO20,Moraine,2020,6,long,11,48
+MO20,Moraine,2020,6,long,12,24
+MO20,Moraine,2020,6,long,13,15
+MO20,Moraine,2020,6,long,14,24
+MO20,Moraine,2020,6,long,15,19
+MO20,Moraine,2020,6,long,16,59
+MO20,Moraine,2020,6,long,17,52
+MO10,Moraine,2020,1,short,2,10
+MO10,Moraine,2020,1,short,5,4
+MO10,Moraine,2020,1,short,6,25
+MO10,Moraine,2020,1,short,7,23
+MO10,Moraine,2020,1,short,8,18
+MO10,Moraine,2020,1,short,9,17
+MO10,Moraine,2020,1,short,10,22
+MO10,Moraine,2020,1,short,11,18
+MO10,Moraine,2020,1,short,12,21
+MO10,Moraine,2020,1,short,13,19
+MO10,Moraine,2020,1,short,14,19
+MO10,Moraine,2020,1,short,15,19
+MO10,Moraine,2020,1,short,16,20
+MO10,Moraine,2020,1,short,17,23
+MO10,Moraine,2020,1,short,18,48
+MO10,Moraine,2020,1,short,19,44
+MO10,Moraine,2020,1,short,20,45
+MO10,Moraine,2020,2,short,2,14
+MO10,Moraine,2020,2,short,3,8
+MO10,Moraine,2020,2,short,4,6
+MO10,Moraine,2020,2,short,5,21
+MO10,Moraine,2020,2,short,6,28
+MO10,Moraine,2020,2,short,7,19
+MO10,Moraine,2020,2,short,8,17
+MO10,Moraine,2020,2,short,9,18
+MO10,Moraine,2020,2,short,10,19
+MO10,Moraine,2020,2,short,11,19
+MO10,Moraine,2020,2,short,12,18
+MO10,Moraine,2020,2,short,13,17
+MO10,Moraine,2020,2,short,14,17
+MO10,Moraine,2020,2,short,15,17
+MO10,Moraine,2020,2,short,16,18
+MO10,Moraine,2020,2,short,17,25
+MO10,Moraine,2020,2,short,18,63
+MO10,Moraine,2020,2,short,19,34
+MO10,Moraine,2020,3,short,1,16
+MO10,Moraine,2020,3,short,2,14
+MO10,Moraine,2020,3,short,5,7
+MO10,Moraine,2020,3,short,6,31
+MO10,Moraine,2020,3,short,7,20
+MO10,Moraine,2020,3,short,8,18
+MO10,Moraine,2020,3,short,9,18
+MO10,Moraine,2020,3,short,10,18
+MO10,Moraine,2020,3,short,11,19
+MO10,Moraine,2020,3,short,12,20
+MO10,Moraine,2020,3,short,13,19
+MO10,Moraine,2020,3,short,14,21
+MO10,Moraine,2020,3,short,15,21
+MO10,Moraine,2020,3,short,16,21
+MO10,Moraine,2020,3,short,17,25
+MO10,Moraine,2020,3,short,18,49
+MO10,Moraine,2020,3,short,19,35
+MO10,Moraine,2020,4,short,2,22
+MO10,Moraine,2020,4,short,4,1
+MO10,Moraine,2020,4,short,6,26
+MO10,Moraine,2020,4,short,7,34
+MO10,Moraine,2020,4,short,8,50
+MO10,Moraine,2020,4,short,9,30
+MO10,Moraine,2020,4,short,10,36
+MO10,Moraine,2020,4,short,11,19
+MO10,Moraine,2020,4,short,12,22
+MO10,Moraine,2020,4,short,13,17
+MO10,Moraine,2020,4,short,14,18
+MO10,Moraine,2020,4,short,15,18
+MO10,Moraine,2020,4,short,16,20
+MO10,Moraine,2020,4,short,17,33
+MO10,Moraine,2020,4,short,18,39
+MO10,Moraine,2020,4,short,19,45
+MO10,Moraine,2020,4,short,20,23
+MO10,Moraine,2020,5,short,2,24
+MO10,Moraine,2020,5,short,3,1
+MO10,Moraine,2020,5,short,4,2
+MO10,Moraine,2020,5,short,5,13
+MO10,Moraine,2020,5,short,6,25
+MO10,Moraine,2020,5,short,7,18
+MO10,Moraine,2020,5,short,8,17
+MO10,Moraine,2020,5,short,9,21
+MO10,Moraine,2020,5,short,10,36
+MO10,Moraine,2020,5,short,11,41
+MO10,Moraine,2020,5,short,12,20
+MO10,Moraine,2020,5,short,13,18
+MO10,Moraine,2020,5,short,14,19
+MO10,Moraine,2020,5,short,15,23
+MO10,Moraine,2020,5,short,16,25
+MO10,Moraine,2020,5,short,17,65
+MO10,Moraine,2020,5,short,18,41
+MO10,Moraine,2020,5,short,19,55
+MO10,Moraine,2020,6,short,2,15
+MO10,Moraine,2020,6,short,3,1
+MO10,Moraine,2020,6,short,5,5
+MO10,Moraine,2020,6,short,6,31
+MO10,Moraine,2020,6,short,7,18
+MO10,Moraine,2020,6,short,8,19
+MO10,Moraine,2020,6,short,9,25
+MO10,Moraine,2020,6,short,10,19
+MO10,Moraine,2020,6,short,11,17
+MO10,Moraine,2020,6,short,12,23
+MO10,Moraine,2020,6,short,13,18
+MO10,Moraine,2020,6,short,14,19
+MO10,Moraine,2020,6,short,15,19
+MO10,Moraine,2020,6,short,16,19
+MO10,Moraine,2020,6,short,17,26
+MO10,Moraine,2020,6,short,18,36
+MO10,Moraine,2020,6,short,19,85
+MO10,Moraine,2020,6,short,20,10
+MO10,Moraine,2020,7,long,1,27
+MO10,Moraine,2020,7,long,2,20
+MO10,Moraine,2020,7,long,4,5
+MO10,Moraine,2020,7,long,5,5
+MO10,Moraine,2020,7,long,6,29
+MO10,Moraine,2020,7,long,7,21
+MO10,Moraine,2020,7,long,8,40
+MO10,Moraine,2020,7,long,9,40
+MO10,Moraine,2020,7,long,10,31
+MO10,Moraine,2020,7,long,11,19
+MO10,Moraine,2020,7,long,12,18
+MO10,Moraine,2020,7,long,13,21
+MO10,Moraine,2020,7,long,14,19
+MO10,Moraine,2020,7,long,15,24
+MO10,Moraine,2020,7,long,16,21
+MO10,Moraine,2020,7,long,17,23
+MO10,Moraine,2020,7,long,18,51
+MO10,Moraine,2020,7,long,19,34
+MO10,Moraine,2020,7,long,21,3
+MO10,Moraine,2020,7,long,22,2
+MO10,Moraine,2020,7,long,23,3
+MO10,Moraine,2020,8,long,24,4
+MO10,Moraine,2020,8,long,1,6
+MO10,Moraine,2020,8,long,2,3
+MO10,Moraine,2020,8,long,3,2
+MO10,Moraine,2020,8,long,4,1
+MO10,Moraine,2020,8,long,5,8
+MO10,Moraine,2020,8,long,6,39
+MO10,Moraine,2020,8,long,7,29
+MO10,Moraine,2020,8,long,8,51
+MO10,Moraine,2020,8,long,9,45
+MO10,Moraine,2020,8,long,10,44
+MO10,Moraine,2020,8,long,11,48
+MO10,Moraine,2020,8,long,12,70
+MO10,Moraine,2020,8,long,13,118
+MO10,Moraine,2020,8,long,14,2
+MO08,Moraine,2019,1,short,6,11
+MO08,Moraine,2019,1,short,7,28
+MO08,Moraine,2019,1,short,8,43
+MO08,Moraine,2019,1,short,9,34
+MO08,Moraine,2019,1,short,10,37
+MO08,Moraine,2019,1,short,11,31
+MO08,Moraine,2019,1,short,12,31
+MO08,Moraine,2019,1,short,13,36
+MO08,Moraine,2019,1,short,14,40
+MO08,Moraine,2019,1,short,15,44
+MO08,Moraine,2019,1,short,16,53
+MO08,Moraine,2019,1,short,17,47
+MO08,Moraine,2019,1,short,18,52
+MO08,Moraine,2019,1,short,19,33
+MO08,Moraine,2019,1,short,20,46
+MO08,Moraine,2019,2,short,5,2
+MO08,Moraine,2019,2,short,6,31
+MO08,Moraine,2019,2,short,7,33
+MO08,Moraine,2019,2,short,8,31
+MO08,Moraine,2019,2,short,9,22
+MO08,Moraine,2019,2,short,10,36
+MO08,Moraine,2019,2,short,11,98
+MO08,Moraine,2019,2,short,12,133
+MO08,Moraine,2019,2,short,13,153
+MO08,Moraine,2019,2,short,14,114
+MO08,Moraine,2019,2,short,15,123
+MO08,Moraine,2019,2,short,16,83
+MO08,Moraine,2019,2,short,17,55
+MO06,Moraine,2020,1,short,5,10
+MO06,Moraine,2020,1,short,6,30
+MO06,Moraine,2020,1,short,7,31
+MO06,Moraine,2020,1,short,8,27
+MO06,Moraine,2020,1,short,9,20
+MO06,Moraine,2020,1,short,10,23
+MO06,Moraine,2020,1,short,11,24
+MO06,Moraine,2020,1,short,12,23
+MO06,Moraine,2020,1,short,13,20
+MO06,Moraine,2020,1,short,14,21
+MO06,Moraine,2020,1,short,15,20
+MO06,Moraine,2020,1,short,16,20
+MO06,Moraine,2020,1,short,17,30
+MO06,Moraine,2020,1,short,18,68
+MO06,Moraine,2020,1,short,19,68
+MO06,Moraine,2020,1,short,20,40
+MO06,Moraine,2020,2,short,5,12
+MO06,Moraine,2020,2,short,6,64
+MO06,Moraine,2020,2,short,7,33
+MO06,Moraine,2020,2,short,8,51
+MO06,Moraine,2020,2,short,9,62
+MO06,Moraine,2020,2,short,10,51
+MO06,Moraine,2020,2,short,11,44
+MO06,Moraine,2020,2,short,12,39
+MO06,Moraine,2020,2,short,13,61
+MO06,Moraine,2020,2,short,14,39
+MO06,Moraine,2020,2,short,15,42
+MO06,Moraine,2020,2,short,16,41
+MO06,Moraine,2020,2,short,17,41
+MO06,Moraine,2020,2,short,18,18
+MO06,Moraine,2020,3,short,5,24
+MO06,Moraine,2020,3,short,6,34
+MO06,Moraine,2020,3,short,7,20
+MO06,Moraine,2020,3,short,8,34
+MO06,Moraine,2020,3,short,9,25
+MO06,Moraine,2020,3,short,10,12
+MO13,Moraine,2020,1,short,4,36
+MO13,Moraine,2020,1,short,5,3
+MO13,Moraine,2020,1,short,6,44
+MO13,Moraine,2020,1,short,7,38
+MO13,Moraine,2020,1,short,8,27
+MO13,Moraine,2020,1,short,9,23
+MO13,Moraine,2020,1,short,10,21
+MO13,Moraine,2020,1,short,11,25
+MO13,Moraine,2020,1,short,12,31
+MO13,Moraine,2020,1,short,13,37
+MO13,Moraine,2020,1,short,14,152
+MO13,Moraine,2020,1,short,15,46
+MO13,Moraine,2020,1,short,16,31
+MO13,Moraine,2020,1,short,17,37
+MO13,Moraine,2020,1,short,18,50
+MO13,Moraine,2020,2,short,5,20
+MO13,Moraine,2020,2,short,6,74
+MO13,Moraine,2020,2,short,7,45
+MO13,Moraine,2020,2,short,8,70
+MO13,Moraine,2020,2,short,9,56
+MO13,Moraine,2020,2,short,10,51
+MO13,Moraine,2020,2,short,11,24
+MO13,Moraine,2020,2,short,12,45
+MO13,Moraine,2020,2,short,13,33
